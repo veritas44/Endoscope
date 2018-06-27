@@ -1,4 +1,4 @@
-# Endoscope - RTSP live video streamer for android devices via Wi-Fi. [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Endoscope-brightgreen.svg?style=flat)](https://android-arsenal.com/details/3/4086)
+# RTSP live video streamer for android devices via Wi-Fi. [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Endoscope-brightgreen.svg?style=flat)](https://android-arsenal.com/details/3/4086)
 
 ![banner](https://raw.githubusercontent.com/hypeapps/Endoscope/master/img/banner.jpg)
 
@@ -53,10 +53,7 @@ You can configure:
 
 <img src="https://raw.githubusercontent.com/hypeapps/Endoscope/master/img/scr1.png" alt="Your Library" height="400"/> <img src="https://raw.githubusercontent.com/hypeapps/Endoscope/master/img/scr2.png" alt="Your Library" height="400"/> <img src="https://raw.githubusercontent.com/hypeapps/Endoscope/master/img/scr3.png" alt="Your Library" height="400"/> <img src="https://raw.githubusercontent.com/hypeapps/Endoscope/master/img/scr4.png" alt="Your Library" height="400"/> <img src="https://raw.githubusercontent.com/hypeapps/Endoscope/master/img/scr5.png" alt="Your Library" height="400"/> <img src="https://raw.githubusercontent.com/hypeapps/Endoscope/master/img/scr6.png" alt="Your Library" height="400"/> 
 
-## Contact me
 
-E-mail: pszem.szym@gmail.com
-Twitter: https://twitter.com/hype_app
 
 ## License
 >GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
